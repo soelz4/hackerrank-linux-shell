@@ -31,7 +31,7 @@ Solutions for the Linux Shell - Bash, Text Processing, Arrays in Bash, Grep Sed 
 
 | Number | Challenge                                                                                                                   |                         Solutions                         |
 | :----: | --------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------: |
-|   1    | [Cut #1](https://www.hackerrank.com/challenges/text-processing-cut-1/problem)                                               |             [Solution](TEXT/Cut%20#1/cut.sh)              |
+|   1    | [Cut #1](https://www.hackerrank.com/challenges/text-processing-cut-1/problem)                                               |             [Solution](TEXT/Cut%20%231/cut.sh)              |
 |   2    | [Cut #2](https://www.hackerrank.com/challenges/text-processing-cut-2/problem)                                               |             [Solution](TEXT/Cut%20#2/cut.sh)              |
 |   3    | [Cut #3](https://www.hackerrank.com/challenges/text-processing-cut-3/problem)                                               |             [Solution](TEXT/Cut%20#3/cut.sh)              |
 |   4    | [Cut #4](https://www.hackerrank.com/challenges/text-processing-cut-4/problem)                                               |             [Solution](TEXT/Cut%20#4/cut.sh)              |
