@@ -16,6 +16,7 @@ OR
 # So, the Second Solution that I Found on the Internet is the Desired Solution for the HackerRacnk Site.
 # But as I said, the Above Solution is Correct and the Site doesn't Accept it, I don't Know why :(
 # Credit to https://github.com/Thomas-George-T/HackerRank-The-Linux-Shell-Challenges-Solutions
+
 arr=("$(cat)")
 arr=("${arr[@]}" "${arr[@]}" "${arr[@]}")
 echo "${arr[@]}"
