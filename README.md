@@ -76,3 +76,22 @@ Solutions for the Linux Shell - Bash, Text Processing, Arrays in Bash, Grep Sed 
 |   6    | [Count the number of elements in an Array](https://www.hackerrank.com/challenges/bash-tutorials-count-the-number-of-elements-in-an-array/problem)                         |      [Solution](ARRAYS/Count%20the%20number%20of%20elements%20in%20an%20Array/count.sh)      |
 |   7    | [Remove the First Capital Letter from Each Element](https://www.hackerrank.com/challenges/bash-tutorials-remove-the-first-capital-letter-from-each-array-element/problem) | [Solution](ARRAYS/Remove%20the%20First%20Capital%20Letter%20from%20Each%20Element/remove.sh) |
 |   8    | [Lonely Integer - Bash!](https://www.hackerrank.com/challenges/lonely-integer-2/problem)                                                                                  |                    [Solution](ARRAYS/Lonely%20Integer%20-%20Bash!/int.sh)                    |
+
+## Grep Sed Awk
+
+| Number | Challenge                                                                                                    |                        Solutions                         |
+| :----: | ------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------: |
+|   1    | ['Grep' #1](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-1/problem)       |     [Solution](GREP%20SED%20AWK/Grep%20%231/grep.sh)     |
+|   2    | ['Grep' #2](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-2/problem)       |     [Solution](GREP%20SED%20AWK/Grep%20%232/grep.sh)     |
+|   3    | ['Grep' #3](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-3/problem)       |     [Solution](GREP%20SED%20AWK/Grep%20%233/grep.sh)     |
+|   4    | ['Grep' -A](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-4/problem)       |    [Solution](GREP%20SED%20AWK/Grep%20-%20A/grep.sh)     |
+|   5    | ['Grep' -B](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-5/problem)       |    [Solution](GREP%20SED%20AWK/Grep%20-%20B/grep.sh)     |
+|   6    | ['Sed' command #1](https://www.hackerrank.com/challenges/text-processing-in-linux-the-sed-command-1/problem) | [Solution](GREP%20SED%20AWK/Sed%20command%20%231/sed.sh) |
+|   7    | ['Sed' command #2](https://www.hackerrank.com/challenges/text-processing-in-linux-the-sed-command-2/problem) | [Solution](GREP%20SED%20AWK/Sed%20command%20%232/sed.sh) |
+|   8    | ['Sed' command #3](https://www.hackerrank.com/challenges/text-processing-in-linux-the-sed-command-3/problem) | [Solution](GREP%20SED%20AWK/Sed%20command%20%233/sed.sh) |
+|   9    | ['Sed' command #4](https://www.hackerrank.com/challenges/sed-command-4/problem)                              | [Solution](GREP%20SED%20AWK/Sed%20command%20%234/sed.sh) |
+|   10   | ['Sed' command #5](https://www.hackerrank.com/challenges/sed-command-5/problem)                              | [Solution](GREP%20SED%20AWK/Sed%20command%20%235/sed.sh) |
+|   11   | ['Awk' - 1](https://www.hackerrank.com/challenges/awk-1/problem)                                             |     [Solution](GREP%20SED%20AWK/Awk%20-%201/awk.sh)      |
+|   12   | ['Awk' - 2](https://www.hackerrank.com/challenges/awk-2/problem)                                             |     [Solution](GREP%20SED%20AWK/Awk%20-%202/awk.sh)      |
+|   13   | ['Awk' - 3](https://www.hackerrank.com/challenges/awk-3/problem)                                             |     [Solution](GREP%20SED%20AWK/Awk%20-%203/awk.sh)      |
+|   14   | ['Awk' - 4](https://www.hackerrank.com/challenges/awk-4/problem)                                             |     [Solution](GREP%20SED%20AWK/Awk%20-%204/awk.sh)      |
