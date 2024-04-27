@@ -95,3 +95,5 @@ Solutions for the Linux Shell - Bash, Text Processing, Arrays in Bash, Grep Sed 
 |   12   | ['Awk' - 2](https://www.hackerrank.com/challenges/awk-2/problem)                                             |     [Solution](GREP%20SED%20AWK/Awk%20-%202/awk.sh)      |
 |   13   | ['Awk' - 3](https://www.hackerrank.com/challenges/awk-3/problem)                                             |     [Solution](GREP%20SED%20AWK/Awk%20-%203/awk.sh)      |
 |   14   | ['Awk' - 4](https://www.hackerrank.com/challenges/awk-4/problem)                                             |     [Solution](GREP%20SED%20AWK/Awk%20-%204/awk.sh)      |
+
+<br>![cat](https://github-production-user-asset-6210df.s3.amazonaws.com/62666332/253642655-0438a9e1-d47d-4570-873c-5ddd59f46e9e.svg)</br>
